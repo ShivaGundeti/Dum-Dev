@@ -540,7 +540,7 @@
 // console.log(backspaceCompare("ab##", "c#d#")); // true
 // console.log(backspaceCompare("a#c", "b"));     // false
 
-console.log("Testing the PR-Agent");
+console.log("PR-Agent test");
 var slidingwindow = function (arr,k)
 {
     let left = 0
